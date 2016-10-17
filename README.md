@@ -22,7 +22,7 @@ For best results, please:
 
 ## Known Issues and Bugs
 
-None at this time.
+Due to problems on my local machine with gulp and some other dependencies, code may not compile correctly.
 
 ## Author
 Ryan Vinyard
